@@ -19,16 +19,16 @@ Certifique-se de que você tem instalado em sua máquina:
 ### Passos para executar
 
 1. **Clone o repositório**:
-   ```bash
- - git clone https://github.com/seu-usuario/nome-do-repositorio.git
- - cd nome-do-repositorio
+ 
+ - git clone https://github.com/Samu3l-95/movieapp
+ - cd movieapp
 
 2. **Instale as dependências**:
-   ```bash
+ 
   - npm install 
 
 3. **Configuração das variáveis de ambiente**:
-   ```bash
+ 
 
 Crie um arquivo .env.local na raiz do projeto e adicione as seguintes variáveis de ambiente:
 
@@ -37,5 +37,5 @@ Crie um arquivo .env.local na raiz do projeto e adicione as seguintes variáveis
   - NEXT_PUBLIC_OMDB_API_KEY=__SEU__token  
 
 4. **Execute o Projeto**:
-   ```bash
+ 
   - npm run dev    

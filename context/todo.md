@@ -1,0 +1,1 @@
+ - Apesar de ter outras formas que poderia gerenciar os dados da aplicação, optei por utilizar Context API, poderia optar em utilizar prop drilling que nesse caso seria suficiente, por se tratar de uma aplicação pequena e com poucos níveis na árvore de componentes, mas pensando em escalabilidade um caminho ideal a seguir é Context API ou Redux.

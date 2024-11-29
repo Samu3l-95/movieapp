@@ -1,0 +1,1 @@
+ - Uma das melhorias é adicionar internacionalização na aplicação, utilizando i18n.
