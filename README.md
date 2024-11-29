@@ -33,8 +33,8 @@ Certifique-se de que você tem instalado em sua máquina:
 Crie um arquivo .env.local na raiz do projeto e adicione as seguintes variáveis de ambiente:
 
 
-  - NEXT_PUBLIC_OMDB_API_KEY=https://sua-api.com 
-  - NEXT_PUBLIC_OMDB_API_KEY=__SEU__token  
+  - NEXT_PUBLIC_OMDB_API=https://sua-api.com 
+  - NEXT_PUBLIC_OMDB_API_KEY=__YOUR__KEY  
 
 4. **Execute o Projeto**:
  
